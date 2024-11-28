@@ -69,8 +69,8 @@ Once you have enabled the Schlage integration, you should see the following swit
 - **1-Touch Locking** - When enabled, locks the lock with a press of the Schlage button.
 - **Keypress Beep** - Controls whether the lock will emit beeping tones on use.
 
-## Remove integration
+## Removing the integration
 
-This integration can be removed by following these steps:
+This integration follows standard integration removal. No extra steps are required.
 
 {% include integrations/remove_device_service.md %}
